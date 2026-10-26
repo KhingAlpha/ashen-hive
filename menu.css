@@ -438,7 +438,7 @@ hr {
 }
 
 .menu-item.open .size-options {
-  max-height: 600px;
+  max-height: 800px;
   opacity: 1;
   padding: 18px;
 }
